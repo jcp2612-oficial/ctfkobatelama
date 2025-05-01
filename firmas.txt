@@ -1,4 +1,0 @@
-BASE DE LA WEB:
-@lrcompany
-Optinizacion & modificacion:
-jcp2612
